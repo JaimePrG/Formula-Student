@@ -1,0 +1,2 @@
+Ansys/P1_files/dp0/SYS/DM/SYS.scdoc filter=lfs diff=lfs merge=lfs -text
+Piezas/Analisis_plastico7/Analisis7_files/dp0/SYS/MECH/admodel.sum filter=lfs diff=lfs merge=lfs -text
