@@ -1,0 +1,20 @@
+﻿# 
+# This file contains the parameter values of the Design Points successfully updated by Ansys Workbench.
+# Project name: Análisis 1
+# Creation date: 12/17/2021 16:23:24
+# 
+# 12/17/2021 16:23:24
+# The parameters defined in the project are:
+# ,P1 - Mesh Element Size [m]
+# 
+# The following header line defines the name of the columns by reference to the parameters.
+Name,P1
+DP 0,0.05
+# 
+# A non parametric change occurred and invalidated design point results.
+# 12/17/2021 19:05:37
+# 
+# 
+# A non parametric change occurred and invalidated design point results.
+# 12/18/2021 14:45:42
+# 

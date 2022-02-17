@@ -1,0 +1,30 @@
+Cycle:    32242, Time:  5.175E-04s, Time Inc.: 1.366E-08s, Progress:  51.75%, Est. Clock Time Remaining:    3.3 hrs
+Cycle:    32243, Time:  5.175E-04s, Time Inc.: 1.365E-08s, Progress:  51.75%, Est. Clock Time Remaining:    3.3 hrs
+Cycle:    32244, Time:  5.175E-04s, Time Inc.: 1.364E-08s, Progress:  51.75%, Est. Clock Time Remaining:    3.3 hrs
+Cycle:    32245, Time:  5.175E-04s, Time Inc.: 1.363E-08s, Progress:  51.75%, Est. Clock Time Remaining:    3.3 hrs
+Cycle:    32246, Time:  5.175E-04s, Time Inc.: 1.362E-08s, Progress:  51.75%, Est. Clock Time Remaining:    3.3 hrs
+Cycle:    32247, Time:  5.176E-04s, Time Inc.: 1.360E-08s, Progress:  51.76%, Est. Clock Time Remaining:    3.3 hrs
+Cycle:    32248, Time:  5.176E-04s, Time Inc.: 1.359E-08s, Progress:  51.76%, Est. Clock Time Remaining:    3.3 hrs
+Cycle:    32249, Time:  5.176E-04s, Time Inc.: 1.358E-08s, Progress:  51.76%, Est. Clock Time Remaining:    3.3 hrs
+Cycle:    32250, Time:  5.176E-04s, Time Inc.: 1.357E-08s, Progress:  51.76%, Est. Clock Time Remaining:    3.3 hrs
+Cycle:    32251, Time:  5.176E-04s, Time Inc.: 1.356E-08s, Progress:  51.76%, Est. Clock Time Remaining:    3.3 hrs
+Cycle:    32252, Time:  5.176E-04s, Time Inc.: 1.355E-08s, Progress:  51.76%, Est. Clock Time Remaining:    3.3 hrs
+Cycle:    32253, Time:  5.176E-04s, Time Inc.: 1.354E-08s, Progress:  51.76%, Est. Clock Time Remaining:    3.3 hrs
+Cycle:    32254, Time:  5.177E-04s, Time Inc.: 1.353E-08s, Progress:  51.77%, Est. Clock Time Remaining:    3.3 hrs
+Cycle:    32255, Time:  5.177E-04s, Time Inc.: 1.352E-08s, Progress:  51.77%, Est. Clock Time Remaining:    3.3 hrs
+ 
+ 
+SIMULATION ELAPSED TIME SUMMARY
+ 
+EXECUTION FROM CYCLE        0 TO    32255
+ELAPSED RUN TIME IN SOLVER =      2.11126E+02 Minutes
+TOTAL ELAPSED RUN TIME     =      2.12195E+02 Minutes
+JOB RAN OVER     2 WORKERS
+JOB RAN USING Intel MPI
+JOB RAN USING DECOMPOSITION AUTO
+ 
+Problem terminated .... energy error too large
+Problem terminated .... energy error too large
+ 
+ ********************************************
+ 
